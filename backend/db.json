@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ Ultra",
+      "price": "7500.89"
+    },
+    {
+      "name": "Cadeira Gamer",
+      "price": "878.56",
+      "id": 4
+    },
+    {
+      "name": "Microfone",
+      "price": "98.12",
+      "id": 5
+    },
+    {
+      "name": "Bola de Rugby",
+      "price": "79.90",
+      "id": 6
+    }
+  ]
+}
